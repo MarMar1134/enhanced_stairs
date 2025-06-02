@@ -1,0 +1,5 @@
+// 1.20.1	2025-06-01T23:11:55.5442352	Tags for minecraft:block mod id enhanced_stairs
+c5a874cae6623a2cf6791263677dc9cc3805fbe0 data/minecraft/tags/blocks/mineable/pickaxe.json
+ee258ed662e445cd42f8d2ab41b38a6f176eef1c data/minecraft/tags/blocks/slabs.json
+21803477c98b344ad22889e6125f6bb2e6acb55a data/minecraft/tags/blocks/stairs.json
+b0fc1c60f2c8467dbc4ee1d2cfeba4965cad64f2 data/minecraft/tags/blocks/walls.json
