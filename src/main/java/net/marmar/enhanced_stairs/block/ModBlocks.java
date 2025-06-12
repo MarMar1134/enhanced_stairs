@@ -98,6 +98,14 @@ public class ModBlocks {
         public static final RegistryObject<Block> SMOOTH_STONE_WALL = registerBlockWithItem("smooth_stone_wall",
                 () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.STONE_BRICK_WALL).requiresCorrectToolForDrops()));
 
+        //Netherrack
+        public static final RegistryObject<Block> NETHERRACK_SLAB = registerBlockWithItem("netherrack_slab",
+                () -> new SlabBlock(BlockBehaviour.Properties.copy(Blocks.STONE_SLAB).requiresCorrectToolForDrops()));
+        public static final RegistryObject<Block> NETHERRACK_STAIRS = registerBlockWithItem("netherrack_stairs",
+                () -> new StairBlock(Blocks.NETHERRACK::defaultBlockState,BlockBehaviour.Properties.copy(Blocks.STONE_STAIRS).requiresCorrectToolForDrops()));
+        public static final RegistryObject<Block> NETHERRACK_WALL = registerBlockWithItem("netherrack_wall",
+                () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.STONE_BRICK_WALL).requiresCorrectToolForDrops()));
+
         //Quartz
         public static final RegistryObject<Block> QUARTZ_BLOCK_WALL = registerBlockWithItem("quartz_wall",
                 () -> new WallBlock(BlockBehaviour.Properties.copy(Blocks.QUARTZ_BLOCK).requiresCorrectToolForDrops()));

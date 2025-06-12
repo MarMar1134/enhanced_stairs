@@ -64,6 +64,11 @@ public class EnglishLangProvider extends LanguageProvider {
         addBlock(ModBlocks.SMOOTH_STONE_STAIRS, "Smooth stone stairs");
         addBlock(ModBlocks.SMOOTH_STONE_WALL, "Smooth stone wall");
 
+        //Netherrack
+        addBlock(ModBlocks.NETHERRACK_SLAB, "Netherrack slab");
+        addBlock(ModBlocks.NETHERRACK_STAIRS, "Netherrack stairs");
+        addBlock(ModBlocks.NETHERRACK_WALL, "Netherrack wall");
+
         //Quartz
         addBlock(ModBlocks.QUARTZ_BLOCK_WALL, "Quartz wall");
 

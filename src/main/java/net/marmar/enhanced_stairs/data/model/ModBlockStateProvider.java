@@ -64,6 +64,11 @@ public class ModBlockStateProvider extends BlockStateProvider {
         stairsBlock((StairBlock) ModBlocks.SMOOTH_STONE_STAIRS.get(), blockTexture(Blocks.SMOOTH_STONE));
         wallBlock((WallBlock) ModBlocks.SMOOTH_STONE_WALL.get(), blockTexture(Blocks.SMOOTH_STONE));
 
+        //Netherrack
+        slabBlock((SlabBlock) ModBlocks.NETHERRACK_SLAB.get(), blockTexture(Blocks.NETHERRACK), blockTexture(Blocks.NETHERRACK));
+        stairsBlock((StairBlock) ModBlocks.NETHERRACK_STAIRS.get(), blockTexture(Blocks.NETHERRACK));
+        wallBlock((WallBlock) ModBlocks.NETHERRACK_WALL.get(), blockTexture(Blocks.NETHERRACK));
+
         //Quartz
         wallBlock((WallBlock) ModBlocks.QUARTZ_BLOCK_WALL.get(), modLoc("block/quartz_block_side"));
 

@@ -1,4 +1,4 @@
-// 1.20.1	2025-06-12T17:07:21.9976848	Loot Tables
+// 1.20.1	2025-06-12T19:16:37.593596	Loot Tables
 b7fe493d993046d870c83efd7ae626a9fa60d12a data/enhanced_stairs/loot_tables/blocks/black_concrete_slab.json
 f40409857b6b9a446c2b3bc16c6e3bef00fd151b data/enhanced_stairs/loot_tables/blocks/black_concrete_stairs.json
 af0bea4ef0974ab76ec1bf974ffba89c0d69aa15 data/enhanced_stairs/loot_tables/blocks/black_concrete_wall.json
@@ -76,6 +76,9 @@ a16c85b1d8ebb10862fc90ed491e8a8047ba4d15 data/enhanced_stairs/loot_tables/blocks
 63ad4b233cccd90632ab2021c7750a79ef3cddd9 data/enhanced_stairs/loot_tables/blocks/magenta_terracotta_slab.json
 900f5704473c9ed422bb085a7e238a1f7d415837 data/enhanced_stairs/loot_tables/blocks/magenta_terracotta_stairs.json
 7d993afcffea3fb37559fc2b91084edcfa890aa3 data/enhanced_stairs/loot_tables/blocks/magenta_terracotta_wall.json
+752dff404ec4534a80d7f5d3331b0447b092fbea data/enhanced_stairs/loot_tables/blocks/netherrack_slab.json
+e01ad4bf9f30bd3c56a642b30b5d009c73d4a9ee data/enhanced_stairs/loot_tables/blocks/netherrack_stairs.json
+a3c2bcc3a4f8a3e81596ded982c38f22cf70c011 data/enhanced_stairs/loot_tables/blocks/netherrack_wall.json
 ef1c60ed1426b9f1ce0b3782812c2b9b58ea8cc5 data/enhanced_stairs/loot_tables/blocks/orange_concrete_slab.json
 47c5fa867abe417381a0e279179e6d84257813bc data/enhanced_stairs/loot_tables/blocks/orange_concrete_stairs.json
 3b468c8104900afcf6ba4a1fded1a34fb69d664c data/enhanced_stairs/loot_tables/blocks/orange_concrete_wall.json

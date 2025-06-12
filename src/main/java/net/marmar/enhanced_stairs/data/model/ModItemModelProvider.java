@@ -69,6 +69,11 @@ public class ModItemModelProvider extends ItemModelProvider {
         blockWithItem(ModBlocks.SMOOTH_STONE_STAIRS);
         wallItem(ModBlocks.SMOOTH_STONE_WALL, Blocks.SMOOTH_STONE);
 
+        //Netherrack
+        blockWithItem(ModBlocks.NETHERRACK_SLAB);
+        blockWithItem(ModBlocks.NETHERRACK_STAIRS);
+        wallItem(ModBlocks.NETHERRACK_WALL, Blocks.NETHERRACK);
+
         //Quartz
         wallItemWithoutParent(ModBlocks.QUARTZ_BLOCK_WALL,"quartz_block_side");
 

@@ -44,32 +44,32 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.DARK_PRISMARINE_WALL.get());
 
         //Dripstone
-        this.add(ModBlocks.DRIPSTONE_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.DRIPSTONE_SLAB.get()));
+        this.add(ModBlocks.DRIPSTONE_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.DRIPSTONE_STAIRS.get());
         this.dropSelf(ModBlocks.DRIPSTONE_WALL.get());
 
         //Calcite
-        this.add(ModBlocks.CALCITE_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.CALCITE_SLAB.get()));
+        this.add(ModBlocks.CALCITE_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.CALCITE_STAIRS.get());
         this.dropSelf(ModBlocks.CALCITE_WALL.get());
 
         //Smooth basalt
-        this.add(ModBlocks.SMOOTH_BASALT_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.SMOOTH_BASALT_SLAB.get()));
+        this.add(ModBlocks.SMOOTH_BASALT_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.SMOOTH_BASALT_STAIRS.get());
         this.dropSelf(ModBlocks.SMOOTH_BASALT_WALL.get());
 
         //Deepslate
-        this.add(ModBlocks.DEEPSLATE_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.DEEPSLATE_SLAB.get()));
+        this.add(ModBlocks.DEEPSLATE_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.DEEPSLATE_STAIRS.get());
         this.dropSelf(ModBlocks.DEEPSLATE_WALL.get());
 
         //Smooth stone
         this.dropSelf(ModBlocks.SMOOTH_STONE_STAIRS.get());
         this.dropSelf(ModBlocks.SMOOTH_STONE_WALL.get());
+
+        this.add(ModBlocks.NETHERRACK_SLAB.get(), this::createSlabItemTable);
+        this.dropSelf(ModBlocks.NETHERRACK_STAIRS.get());
+        this.dropSelf(ModBlocks.NETHERRACK_WALL.get());
 
         //Quartz
         this.dropSelf(ModBlocks.QUARTZ_BLOCK_WALL.get());
@@ -78,14 +78,12 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.dropSelf(ModBlocks.SMOOTH_QUARTZ_WALL.get());
 
         //Quartz bricks
-        this.add(ModBlocks.QUARTZ_BRICKS_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.QUARTZ_BRICKS_SLAB.get()));
+        this.add(ModBlocks.QUARTZ_BRICKS_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.QUARTZ_BRICKS_STAIRS.get());
         this.dropSelf(ModBlocks.QUARTZ_BRICKS_WALL.get());
 
         //End stone
-        this.add(ModBlocks.END_STONE_SLAB.get(),
-                block -> createSlabItemTable(ModBlocks.END_STONE_SLAB.get()));
+        this.add(ModBlocks.END_STONE_SLAB.get(), this::createSlabItemTable);
         this.dropSelf(ModBlocks.END_STONE_STAIRS.get());
         this.dropSelf(ModBlocks.END_STONE_WALL.get());
 

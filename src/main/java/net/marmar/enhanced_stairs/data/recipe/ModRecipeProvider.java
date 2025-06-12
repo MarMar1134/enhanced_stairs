@@ -63,6 +63,10 @@ public class ModRecipeProvider extends RecipeProvider {
             stairBlockRecipe(Blocks.SMOOTH_STONE, ModBlocks.SMOOTH_STONE_STAIRS.get(), pConsumer);
             wallBlockRecipe(Blocks.SMOOTH_STONE, ModBlocks.SMOOTH_STONE_WALL.get(), pConsumer);
 
+            //Netherrack
+            blockWithoutPolishedVersion(Blocks.NETHERRACK, ModBlocks.NETHERRACK_WALL.get(), ModBlocks.NETHERRACK_STAIRS.get(),
+                    ModBlocks.NETHERRACK_SLAB.get(), pConsumer);
+
             //Quartz
             wallBlockRecipe(Blocks.QUARTZ_BLOCK, ModBlocks.QUARTZ_BLOCK_WALL.get(), pConsumer);
 

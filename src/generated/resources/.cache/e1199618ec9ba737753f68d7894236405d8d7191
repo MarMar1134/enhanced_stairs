@@ -1,4 +1,4 @@
-// 1.20.1	2025-06-12T17:07:22.0113408	Item Models: enhanced_stairs
+// 1.20.1	2025-06-12T19:16:37.5985988	Item Models: enhanced_stairs
 93dbbd8c2f33331e7f23ef3fd934e039de8b140b assets/enhanced_stairs/models/item/black_concrete_slab.json
 0151740d88ecf20fb9ca6d294fa60fb65c20cd35 assets/enhanced_stairs/models/item/black_concrete_stairs.json
 e393f9ee1d63145652c5eb67917bc02d947d566d assets/enhanced_stairs/models/item/black_concrete_wall.json
@@ -76,6 +76,9 @@ a1f370bfaa0a3a047ab353dfa175fd2fa6915e55 assets/enhanced_stairs/models/item/mage
 278789b540fc53202e0a0f2a614671199fcf1f64 assets/enhanced_stairs/models/item/magenta_terracotta_slab.json
 11ced504d271d517c6419fc5e9541f3bbb73785a assets/enhanced_stairs/models/item/magenta_terracotta_stairs.json
 26f8b84f1796bbe79240500a9ddaa85a3bcad5bf assets/enhanced_stairs/models/item/magenta_terracotta_wall.json
+aa3aec246a32f38ff64c37f4fd3416306c9fec8e assets/enhanced_stairs/models/item/netherrack_slab.json
+f0f01fb4c27b21dcabdf22b850408c26bc1119bd assets/enhanced_stairs/models/item/netherrack_stairs.json
+09f2b844651602b326da6e0ce76762dd68eaec1e assets/enhanced_stairs/models/item/netherrack_wall.json
 c34e8a47d60fac6890969b31f9d750f82c823d65 assets/enhanced_stairs/models/item/orange_concrete_slab.json
 0f283fe2796b86d42b7f15200f6411c753c0cead assets/enhanced_stairs/models/item/orange_concrete_stairs.json
 8b8e7a5e40e9ce6071fc450eebfeb49e6592d9b7 assets/enhanced_stairs/models/item/orange_concrete_wall.json

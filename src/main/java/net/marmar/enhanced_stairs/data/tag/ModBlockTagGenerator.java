@@ -33,6 +33,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.SMOOTH_BASALT_STAIRS.get(),
                 ModBlocks.DEEPSLATE_STAIRS.get(),
                 ModBlocks.SMOOTH_STONE_STAIRS.get(),
+                ModBlocks.NETHERRACK_STAIRS.get(),
                 ModBlocks.QUARTZ_BRICKS_STAIRS.get(),
                 ModBlocks.END_STONE_STAIRS.get(),
 
@@ -78,6 +79,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.CALCITE_SLAB.get(),
                 ModBlocks.SMOOTH_BASALT_SLAB.get(),
                 ModBlocks.DEEPSLATE_SLAB.get(),
+                ModBlocks.NETHERRACK_SLAB.get(),
                 ModBlocks.QUARTZ_BRICKS_SLAB.get(),
                 ModBlocks.END_STONE_SLAB.get(),
 
@@ -134,6 +136,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.SMOOTH_BASALT_WALL.get(),
                 ModBlocks.DEEPSLATE_WALL.get(),
                 ModBlocks.SMOOTH_STONE_WALL.get(),
+                ModBlocks.NETHERRACK_WALL.get(),
                 ModBlocks.QUARTZ_BLOCK_WALL.get(),
                 ModBlocks.SMOOTH_QUARTZ_WALL.get(),
                 ModBlocks.QUARTZ_BRICKS_WALL.get(),
@@ -188,6 +191,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.DARK_PRISMARINE_WALL.get(),
                 ModBlocks.DEEPSLATE_STAIRS.get(),
                 ModBlocks.SMOOTH_STONE_STAIRS.get(),
+                ModBlocks.NETHERRACK_STAIRS.get(),
                 ModBlocks.QUARTZ_BRICKS_STAIRS.get(),
                 ModBlocks.END_STONE_STAIRS.get(),
 
@@ -232,6 +236,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.CALCITE_SLAB.get(),
                 ModBlocks.SMOOTH_BASALT_SLAB.get(),
                 ModBlocks.DEEPSLATE_SLAB.get(),
+                ModBlocks.NETHERRACK_SLAB.get(),
                 ModBlocks.QUARTZ_BRICKS_SLAB.get(),
                 ModBlocks.END_STONE_SLAB.get(),
 
@@ -285,6 +290,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
                 ModBlocks.SMOOTH_BASALT_WALL.get(),
                 ModBlocks.DEEPSLATE_WALL.get(),
                 ModBlocks.SMOOTH_STONE_WALL.get(),
+                ModBlocks.NETHERRACK_WALL.get(),
                 ModBlocks.QUARTZ_BLOCK_WALL.get(),
                 ModBlocks.SMOOTH_QUARTZ_WALL.get(),
                 ModBlocks.QUARTZ_BRICKS_WALL.get(),

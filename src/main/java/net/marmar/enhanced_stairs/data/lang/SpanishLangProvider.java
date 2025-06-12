@@ -64,6 +64,11 @@ public class SpanishLangProvider extends LanguageProvider {
         addBlock(ModBlocks.SMOOTH_STONE_STAIRS, "Escaleras de piedra lisa");
         addBlock(ModBlocks.SMOOTH_STONE_WALL, "Pared de piedra lisa");
 
+        //Netherrack
+        addBlock(ModBlocks.NETHERRACK_SLAB, "Baldosa de netherrack");
+        addBlock(ModBlocks.NETHERRACK_STAIRS, "Escaleras de netherrack");
+        addBlock(ModBlocks.NETHERRACK_WALL, "Pared de netherrack");
+
         //Quartz
         addBlock(ModBlocks.QUARTZ_BLOCK_WALL, "Pared de cuarzo");
 

@@ -1,5 +1,6 @@
-// 1.20.1	2025-06-12T18:05:31.4834563	Tags for minecraft:block mod id enhanced_stairs
-12653edd17157841114b22b859fc3314ab751286 data/minecraft/tags/blocks/mineable/pickaxe.json
-8ebfc658f6e2ac056297e774e3bf22280527d1ee data/minecraft/tags/blocks/slabs.json
-6a6457e9923f03b84e8f0b7bf860fd9610c6104b data/minecraft/tags/blocks/stairs.json
-99994a56dd95fb7775312b527252d24ca9c93db3 data/minecraft/tags/blocks/walls.json
+// 1.20.1	2025-06-12T19:16:37.5885973	Tags for minecraft:block mod id enhanced_stairs
+972b1620f25222bcfa012f32f7705f23935d3d8a data/enhanced_playthrough/tags/blocks/needs_steel_tool.json
+c94dc87f1dce6e53d1ea396880fb12b1573d99ba data/minecraft/tags/blocks/mineable/pickaxe.json
+8f7478789b8105ae785117e11dc5d28c6e1d4f09 data/minecraft/tags/blocks/slabs.json
+e2e21ccdead45e75ad8c1390e308bff459ffd8a9 data/minecraft/tags/blocks/stairs.json
+d5b06d59f639e2d989af953505c821dbe0647921 data/minecraft/tags/blocks/walls.json

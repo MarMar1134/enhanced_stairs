@@ -305,6 +305,14 @@ public class VanillaTabs {
             event.getEntries().putAfter(Items.SMOOTH_STONE_SLAB.getDefaultInstance(), ModBlocks.SMOOTH_STONE_WALL.get().asItem().getDefaultInstance(),
                     CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
 
+            //Netherrack
+            event.getEntries().putAfter(Items.NETHERRACK.getDefaultInstance(), ModBlocks.NETHERRACK_STAIRS.get().asItem().getDefaultInstance(),
+                    CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
+            event.getEntries().putAfter(ModBlocks.NETHERRACK_STAIRS.get().asItem().getDefaultInstance(), ModBlocks.NETHERRACK_SLAB.get().asItem().getDefaultInstance(),
+                    CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
+            event.getEntries().putAfter(ModBlocks.NETHERRACK_SLAB.get().asItem().getDefaultInstance(), ModBlocks.NETHERRACK_WALL.get().asItem().getDefaultInstance(),
+                    CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
+
             //Quartz
             event.getEntries().putAfter(Items.QUARTZ_SLAB.asItem().getDefaultInstance(), ModBlocks.QUARTZ_BLOCK_WALL.get().asItem().getDefaultInstance(),
                     CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
@@ -315,6 +323,8 @@ public class VanillaTabs {
 
             //Quartz bricks
             event.getEntries().putAfter(Items.QUARTZ_BRICKS.getDefaultInstance(), ModBlocks.QUARTZ_BRICKS_STAIRS.get().asItem().getDefaultInstance(),
+                    CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
+            event.getEntries().putAfter(ModBlocks.QUARTZ_BRICKS_STAIRS.get().asItem().getDefaultInstance(), ModBlocks.QUARTZ_BRICKS_SLAB.get().asItem().getDefaultInstance(),
                     CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
             event.getEntries().putAfter(ModBlocks.QUARTZ_BRICKS_SLAB.get().asItem().getDefaultInstance(), ModBlocks.QUARTZ_BRICKS_WALL.get().asItem().getDefaultInstance(),
                     CreativeModeTab.TabVisibility.PARENT_AND_SEARCH_TABS);
