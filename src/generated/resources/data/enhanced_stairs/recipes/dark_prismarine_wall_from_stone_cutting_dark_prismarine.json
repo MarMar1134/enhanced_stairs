@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:dark_prismarine"
+  },
+  "result": "enhanced_stairs:dark_prismarine_wall"
+}

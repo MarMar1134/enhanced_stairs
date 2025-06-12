@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "magenta_concrete_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:magenta_concrete"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:magenta_concrete_wall"
+  },
+  "show_notification": true
+}

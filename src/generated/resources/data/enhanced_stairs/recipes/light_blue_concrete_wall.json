@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "light_blue_concrete_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_concrete"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:light_blue_concrete_wall"
+  },
+  "show_notification": true
+}

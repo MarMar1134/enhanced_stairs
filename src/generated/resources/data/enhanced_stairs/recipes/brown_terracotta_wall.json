@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "brown_terracotta_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:brown_terracotta"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:brown_terracotta_wall"
+  },
+  "show_notification": true
+}

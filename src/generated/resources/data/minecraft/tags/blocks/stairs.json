@@ -1,7 +1,14 @@
 {
   "values": [
-    "enhanced_stairs:dripstone_stair",
-    "enhanced_stairs:calcite_stair",
+    "enhanced_stairs:cut_sandstone_stairs",
+    "enhanced_stairs:cut_red_sandstone_stairs",
+    "enhanced_stairs:dripstone_stairs",
+    "enhanced_stairs:calcite_stairs",
+    "enhanced_stairs:smooth_basalt_stairs",
+    "enhanced_stairs:deepslate_stairs",
+    "enhanced_stairs:smooth_stone_stairs",
+    "enhanced_stairs:quartz_bricks_stairs",
+    "enhanced_stairs:end_stone_stairs",
     "enhanced_stairs:white_concrete_stairs",
     "enhanced_stairs:light_gray_concrete_stairs",
     "enhanced_stairs:gray_concrete_stairs",
@@ -17,6 +24,22 @@
     "enhanced_stairs:blue_concrete_stairs",
     "enhanced_stairs:purple_concrete_stairs",
     "enhanced_stairs:magenta_concrete_stairs",
-    "enhanced_stairs:pink_concrete_stairs"
+    "enhanced_stairs:pink_concrete_stairs",
+    "enhanced_stairs:white_terracotta_stairs",
+    "enhanced_stairs:light_gray_terracotta_stairs",
+    "enhanced_stairs:gray_terracotta_stairs",
+    "enhanced_stairs:black_terracotta_stairs",
+    "enhanced_stairs:brown_terracotta_stairs",
+    "enhanced_stairs:red_terracotta_stairs",
+    "enhanced_stairs:orange_terracotta_stairs",
+    "enhanced_stairs:yellow_terracotta_stairs",
+    "enhanced_stairs:lime_terracotta_stairs",
+    "enhanced_stairs:green_terracotta_stairs",
+    "enhanced_stairs:cyan_terracotta_stairs",
+    "enhanced_stairs:light_blue_terracotta_stairs",
+    "enhanced_stairs:blue_terracotta_stairs",
+    "enhanced_stairs:purple_terracotta_stairs",
+    "enhanced_stairs:magenta_terracotta_stairs",
+    "enhanced_stairs:pink_terracotta_stairs"
   ]
 }

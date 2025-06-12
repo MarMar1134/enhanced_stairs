@@ -2,6 +2,10 @@
   "values": [
     "enhanced_stairs:dripstone_slab",
     "enhanced_stairs:calcite_slab",
+    "enhanced_stairs:smooth_basalt_slab",
+    "enhanced_stairs:deepslate_slab",
+    "enhanced_stairs:quartz_bricks_slab",
+    "enhanced_stairs:end_stone_slab",
     "enhanced_stairs:white_concrete_slab",
     "enhanced_stairs:light_gray_concrete_slab",
     "enhanced_stairs:gray_concrete_slab",
@@ -17,6 +21,22 @@
     "enhanced_stairs:blue_concrete_slab",
     "enhanced_stairs:purple_concrete_slab",
     "enhanced_stairs:magenta_concrete_slab",
-    "enhanced_stairs:pink_concrete_slab"
+    "enhanced_stairs:pink_concrete_slab",
+    "enhanced_stairs:white_terracotta_slab",
+    "enhanced_stairs:light_gray_terracotta_slab",
+    "enhanced_stairs:gray_terracotta_slab",
+    "enhanced_stairs:black_terracotta_slab",
+    "enhanced_stairs:brown_terracotta_slab",
+    "enhanced_stairs:red_terracotta_slab",
+    "enhanced_stairs:orange_terracotta_slab",
+    "enhanced_stairs:yellow_terracotta_slab",
+    "enhanced_stairs:lime_terracotta_slab",
+    "enhanced_stairs:green_terracotta_slab",
+    "enhanced_stairs:cyan_terracotta_slab",
+    "enhanced_stairs:light_blue_terracotta_slab",
+    "enhanced_stairs:blue_terracotta_slab",
+    "enhanced_stairs:purple_terracotta_slab",
+    "enhanced_stairs:magenta_terracotta_slab",
+    "enhanced_stairs:pink_terracotta_slab"
   ]
 }

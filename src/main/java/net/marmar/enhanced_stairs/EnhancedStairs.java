@@ -14,14 +14,8 @@ public class EnhancedStairs {
 
     public EnhancedStairs(FMLJavaModLoadingContext context) {
         IEventBus modEventBus = context.getModEventBus();
-        ModList modList = ModList.get();
-
         ModBlocks.register(modEventBus);
-
-        if (!modList.isLoaded("enhanced_playthrough")){
-            modEventBus.addListener(VanillaTabs::addStairsToVanilla);
-        }
-
+        modEventBus.addListener(VanillaTabs::addStairsToVanilla);
         MinecraftForge.EVENT_BUS.register(this);
     }
 }

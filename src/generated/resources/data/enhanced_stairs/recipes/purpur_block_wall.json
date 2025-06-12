@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "purpur_block_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:purpur_block_wall"
+  },
+  "show_notification": true
+}
