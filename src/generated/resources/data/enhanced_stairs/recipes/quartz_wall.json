@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "quartz_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:quartz_wall"
+  },
+  "show_notification": true
+}

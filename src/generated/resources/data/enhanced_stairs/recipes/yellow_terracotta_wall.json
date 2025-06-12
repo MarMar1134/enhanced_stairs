@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "yellow_terracotta_wall",
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_terracotta"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "enhanced_stairs:yellow_terracotta_wall"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "enhanced_stairs:block/sandstone_top"
+  }
+}
